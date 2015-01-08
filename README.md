@@ -1,0 +1,2 @@
+# ftlard
+all rights deallocated
