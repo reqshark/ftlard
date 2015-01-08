@@ -1,5 +1,7 @@
 ### FTL LICENSE. ALL RIGHTS DEALLOCATED.
 ```bash
+FTL LICENSE. ALL RIGHTS DEALLOCATED.
+
 fuck the license ensures all rights in this open source are deallocated
 across jurisdictions that recognize copyright.
 
@@ -11,5 +13,7 @@ bound to this copy of software alone.
 The ARD mechanism was made availble in plain fact and thus herein effected as
 a consequence of our timeless pursuit of science and reason
 to the benefit and interest of all involved.
+
+
 fuck the license | all rights deallocated | http://reqshark.github.io/ftlard/
 ```
